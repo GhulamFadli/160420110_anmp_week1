@@ -1,3 +1,4 @@
-<resources>
-    <string name="app_name">Project1_160420110</string>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" tools:ignore="Typos">Project1_160420110</string>
+    <string name="android_love_kotlin">Android Love Kotlin 😘</string>
 </resources>
